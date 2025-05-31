@@ -1,4 +1,3 @@
-````
 # 🛠️ CNC & VMC G-Code Library
 
 Welcome to the **CNC & VMC G-Code Library**, a curated collection of real-world **G-code files** and **3D STL models** for various machining jobs. Whether you're a student, hobbyist, or professional machinist, this repository provides practical examples for CNC (Computer Numerical Control) and VMC (Vertical Machining Center) operations.

@@ -35,7 +35,7 @@ Each `Job_X` folder includes:
 
 Here’s a rendered STL preview of one of the job outputs (e.g., CNC/Job\_1):
 
-![Sample Rendered Part](https://github.com/mohanevs/CNC-VMC-Codes/blob/main/media/rendered-part.png?raw=true)
+![Sample Rendered Part](https://github.com/mohanevs/CNC-VMC-Codes/main/media/rendered-part.png?raw=true)
 
 > **Note:** This preview is only a visual reference.
 > Actual results may vary depending on:
